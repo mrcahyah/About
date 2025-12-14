@@ -22,10 +22,6 @@ I'm **Micahyah Morgan Ewusie**, a bioinformatics scientist in the making with a 
 - 🤖 AI/ML frameworks for biological data
 - 🔄 RPA tools (because why do manually what you can automate?)
 
-## Current Focus 🔬
-
-I'm currently in the research and planning phase of **AI-Guided Pathway-Based Drug Repurposing**—a personal project that's helping me deepen my AI/ML skills while exploring how we can intelligently repurpose existing drugs using biological pathway analysis. It's a challenge that lets me think outside the box and connect multiple domains I care about.
-
 ## Why I'm Here 🌱
 
 I'm building my skills, sharing my journey, and looking to connect with others in the bioinformatics, computational biology, and AI space. Whether you're a seasoned researcher, a fellow student, or someone curious about this field—let's connect and learn together.
